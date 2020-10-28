@@ -24,6 +24,7 @@
 | Burnout 2                                       | HDD | xbox360usb             | Perfect |       |
 | Sonic Mega Collection Plus                      | HDD | xbox360usb             | Perfect |       |
 | Jak II                                          | HDD  | xbox360usb             | Perfect |       |
+| Lego Star Wars II: The Original Trilogy         | HDD  | xbox360usb             | Perfect |       |
 
 __Perfect__ - No problems whatsoever
 
