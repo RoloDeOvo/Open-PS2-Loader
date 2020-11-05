@@ -36,6 +36,7 @@ __Works__ - Playable with some issues
 __Borked__ - Non-functional
 
 __Known Issues__
+
 Keep in mind that multiplayer with 2 Xbox controllers doesn't work properly right now.
 
 Also, vibration doesn't work either.
