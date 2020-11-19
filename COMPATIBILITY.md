@@ -29,6 +29,9 @@
 | Sonic Heroes | HDD | xbox360usb | Works | Will sometimes infinite load |
 | Sonic Unleashed | HDD | xbox360usb | Works | Will sometimes infinite load |
 | Sly 2: Band of Thieves | HDD | xbox360usb | Perfect |  |
+| Marvel vs Capcom 2 | HDD | xbox360usb | Works | Will sometimes freeze | 
+
+
 
  
 __Perfect__ - No problems whatsoever
